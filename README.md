@@ -17,3 +17,5 @@ The **Spotify Analytics Dashboard** is a data visualization project that analyze
 - Power BI
 - Spotify Dataset 
 ---
+<img width="1455" height="819" alt="image" src="https://github.com/user-attachments/assets/45cd3795-477d-4ed0-87fb-260f4a6e4443" />.href
+
